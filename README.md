@@ -13,8 +13,8 @@ The strips cover the downtown Loop area, based on the
 
 <table>
   <tr>
-    <td align="center"><img src="images/cta_train_poster.jpg" width="380" /></td>
-    <td align="center"><img src="https://cdn11.bigcommerce.com/s-4np45xy/images/stencil/480x480/products/1680/5945/22x28_Modern_CTA_Poster_Loop_Detail__41723.1737516036.png?c=2" width="380" /></td>
+    <td align="center"><img src="https://cdn11.bigcommerce.com/s-4np45xy/images/stencil/480x480/products/1680/5945/22x28_Modern_CTA_Poster_Loop_Detail__41723.1737516036.png?c=2" height="480" /></td>
+    <td align="center"><img src="images/cta_train_poster.jpg" height="480" /></td>
   </tr>
 </table>
 
