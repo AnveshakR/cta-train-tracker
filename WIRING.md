@@ -2,7 +2,7 @@
 
 One WS2812B strip per CTA line, driven from an ESP32 DevKit V1.
 
-![Wiring](images/cta_train_poster_wiring.jpg)
+<img src="images/cta_train_poster_wiring.jpg" height="480" />
 
 ## Power
 - `main.py` sets the CPU to 80 MHz and holds the onboard blue LED (GPIO2) off. The red power LED is wired to 3.3V and can't be switched off in software.
