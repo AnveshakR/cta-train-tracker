@@ -7,12 +7,16 @@ next one. Then the old LED fades out and the new one fades in.
 
 For wiring, setup, file layout and how the lighting works, see [WIRING.md](WIRING.md).
 
-![CTA Loop poster](images/cta_train_poster.jpg)
-
 ## Stops covered
 The strips cover the downtown Loop area, based on the
 [Contemporary CTA Loop Poster](https://www.transittees.com/contemporary-cta-loop-poster/) by Transit Tees.
-![](https://cdn11.bigcommerce.com/s-4np45xy/images/stencil/480x480/products/1680/5945/22x28_Modern_CTA_Poster_Loop_Detail__41723.1737516036.png?c=2)
+
+<table>
+  <tr>
+    <td align="center"><img src="images/cta_train_poster.jpg" width="380" /></td>
+    <td align="center"><img src="https://cdn11.bigcommerce.com/s-4np45xy/images/stencil/480x480/products/1680/5945/22x28_Modern_CTA_Poster_Loop_Detail__41723.1737516036.png?c=2" width="380" /></td>
+  </tr>
+</table>
 
 Each line has its own strip, so a shared station gets one LED per line.
 
